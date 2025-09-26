@@ -65,13 +65,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Badr-afk/Badr-afk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/Badr-afk">
     <img src="https://img.shields.io/badge/GitHub-Badr--afk-181717?style=for-the-badge&logo=github" alt="GitHub Link" />

@@ -31,4 +31,7 @@
 <h2>About me</h2>
 
 <h1>Hello and welcome to my profile</h1>
-<p></p>I am a student, currently I am learning front-end and back-end programming.</p>
+
+---
+<p></p>I am a student, currently I am learning front-end and back-end programming. <img  ></p>
+---

@@ -40,13 +40,11 @@
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
 
 ### Databases & Cloud  
-![Firebase](https://skillicons.dev/icons?i=firebase) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 ### Tools & IDEs  
 ![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![GitLab](https://skillicons.dev/icons?i=gitlab)  
+![GitHub](https://skillicons.dev/icons?i=github)  
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![Eclipse](https://skillicons.dev/icons?i=eclipse) 
 ![Windows](https://skillicons.dev/icons?i=windows) 

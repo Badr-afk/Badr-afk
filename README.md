@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements & Stats
 
 <div align="center">
 
@@ -48,7 +48,9 @@
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Badr-afk&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 
 </div>
 

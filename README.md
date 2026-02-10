@@ -40,17 +40,19 @@
 
 ---
 
-## 🏆 GitHub Achievements & Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badr-afk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Badr-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
   <br><br>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Badr-afk&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Badr-afk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Badr-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 

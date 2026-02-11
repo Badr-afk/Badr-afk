@@ -19,7 +19,6 @@
       - 💻 Expert in **JavaScript, Python, Laravel, and SQL**.<br>
       - 🚀 Focused on **Web Development, API Management, and Cloud Architecture**.<br>
       - 🛠️ Skilled in building RESTful APIs using **Postman** and **Laravel**.<br>
-      - 🎮 Fun fact: I love **Dragon Ball & retro anime** (Kame Hame Ha! 💥)
     </td>
     <td>
       <img src="descarga.gif" alt="GIF" height="150px">
